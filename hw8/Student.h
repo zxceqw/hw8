@@ -16,5 +16,5 @@ private:
 	std::string gender;
 	std::string date_of_birth;
 	int group;
-	double average_ball;
+	double average_score;
 };
